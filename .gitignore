@@ -1,0 +1,15 @@
+# KiCad backup files
+*.bak
+*.bck
+*.kicad_pcb-bak
+*-bak
+
+# KiCad temporary and auto-save files
+*.lck
+*.tmp
+
+# KiCad generated outputs (Uncomment if you want to exclude them)
+# fp-info-cache
+# *.erc
+# *.report
+# *.pdf
