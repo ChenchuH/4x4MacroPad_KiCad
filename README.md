@@ -1,1 +1,2 @@
-# 4x4MacroPad_KiCad
+# 4x4MacroPad_KiCad - Rev 2
+
