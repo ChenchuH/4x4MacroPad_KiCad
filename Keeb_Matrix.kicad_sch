@@ -971,7 +971,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 64.77 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -1027,14 +1027,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "4615a0c7-ea6c-426d-9fe8-e40f4b577520")
+			(uuid "2c971c47-f78d-49a8-9257-0796903937cf")
 		)
 		(pin "1"
-			(uuid "1a0dd3bd-73ea-4f52-beb3-fc747ff1a50f")
+			(uuid "146e0dea-a145-4100-aaef-e39e268d01be")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D10")
 					(unit 1)
 				)
@@ -1073,7 +1073,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 43.18 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -1107,14 +1107,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "7914a7f6-1f40-475c-ba8d-53fe009e0a9c")
+			(uuid "a1cadf68-bc86-4772-8ae3-810fe920836e")
 		)
 		(pin "1"
-			(uuid "64bc0540-b906-4135-8753-7382b9bd5aac")
+			(uuid "4d787c76-818a-4ac1-bba3-d4cd5c74d7e4")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW9")
 					(unit 1)
 				)
@@ -1153,7 +1153,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 76.2 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -1187,14 +1187,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "1b7540dc-34c8-40ba-adac-365dbdaef61c")
+			(uuid "6b46932e-1d52-445a-97ca-ce1574b8952a")
 		)
 		(pin "1"
-			(uuid "1c28623e-abcf-4bff-879b-d015b6ed7af2")
+			(uuid "12291ad6-cb5f-4ddd-ba9f-9f9fbef98cf2")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW7")
 					(unit 1)
 				)
@@ -1233,7 +1233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 93.98 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -1267,14 +1267,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "f26a972d-b0d3-4a31-8774-ca27382543ba")
+			(uuid "ea88bc0f-72ff-480a-b55b-5e4a72bccdcd")
 		)
 		(pin "1"
-			(uuid "ebc44fcc-6b23-4042-b289-f7ae6c55f447")
+			(uuid "f75a330a-51ac-486b-8467-39558467bce1")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW12")
 					(unit 1)
 				)
@@ -1315,7 +1315,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 81.28 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -1371,14 +1371,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "23bd9171-7723-4d70-8b56-aa17100e5cda")
+			(uuid "6f8be783-a98b-4a60-a616-c882c90a53a2")
 		)
 		(pin "1"
-			(uuid "e93e0cd1-c2fa-4d0c-b923-d3372a303939")
+			(uuid "5844317e-fbde-4708-921c-fcd9f245247c")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D3")
 					(unit 1)
 				)
@@ -1419,7 +1419,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 48.26 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -1475,14 +1475,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "b7cd7f54-b6fe-48f2-8dc0-5b2c22ebba44")
+			(uuid "48a1fcad-41bc-4fa7-823f-3a223d3a8bf0")
 		)
 		(pin "1"
-			(uuid "60e5174c-9734-4572-a9d8-ca19d2b46f30")
+			(uuid "76b75cbf-831a-489c-8268-8272a90e0e09")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D9")
 					(unit 1)
 				)
@@ -1521,7 +1521,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 76.2 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -1555,14 +1555,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "46d7c90b-13d7-424c-8cdf-0379570c8377")
+			(uuid "fe88a02b-39bc-42b6-aa79-949bd1b73107")
 		)
 		(pin "1"
-			(uuid "8890051f-c74b-443a-ad8c-fa5f185fd217")
+			(uuid "5e3c3a9d-6cbd-4cf3-b4b5-1bb11dcd02f5")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW11")
 					(unit 1)
 				)
@@ -1603,7 +1603,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 64.77 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -1659,14 +1659,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "930889e6-f6b3-4074-a688-f5160fa3b3a4")
+			(uuid "5a8ed95c-5566-40a8-ac7f-4d4b6928d8c9")
 		)
 		(pin "1"
-			(uuid "7789ab99-3787-4001-83e5-a4fbb47d3aa0")
+			(uuid "0eb49ca6-a89b-4976-b72f-96ba36f10317")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D6")
 					(unit 1)
 				)
@@ -1705,7 +1705,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 43.18 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -1739,14 +1739,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "acb562d7-9151-4300-8306-be1ce2f4610d")
+			(uuid "1484f3e7-ee9e-4ac1-8f7d-32c8e4089d10")
 		)
 		(pin "1"
-			(uuid "a03abcb0-72f0-4b96-8a6a-a603fc1f119f")
+			(uuid "052e12dc-e1d9-4e8b-a530-0a8b17481bbd")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW5")
 					(unit 1)
 				)
@@ -1787,7 +1787,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 64.77 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -1843,14 +1843,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "40ef8877-7d87-4421-b7b4-d024dd98450f")
+			(uuid "9d1116b2-ede8-4adb-85f5-fe8660899f0b")
 		)
 		(pin "1"
-			(uuid "f11b6f4f-2739-49e0-9ff0-62c11de99a1a")
+			(uuid "b91e565d-63ac-4ffd-9853-e122a2d7a7f5")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D14")
 					(unit 1)
 				)
@@ -1891,7 +1891,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 99.06 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -1947,14 +1947,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "44c67c2c-c12d-4253-9d13-42e6eb480707")
+			(uuid "98321e2d-0749-48e5-ad6d-a068148a4a81")
 		)
 		(pin "1"
-			(uuid "c0639e3a-8776-47be-9843-942f2505c6cb")
+			(uuid "a8386758-ddb8-4100-bffa-8ccc9dd95f9f")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D12")
 					(unit 1)
 				)
@@ -1993,7 +1993,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 93.98 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2027,14 +2027,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "d95dad6a-268b-4060-899f-3a7bb991c990")
+			(uuid "6b383c37-c965-446c-9889-3980555d3278")
 		)
 		(pin "1"
-			(uuid "0af2aa2d-f404-43ba-a7ae-74f31c6470ca")
+			(uuid "18ddb97a-008f-4cc7-8097-9a7227667611")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW16")
 					(unit 1)
 				)
@@ -2075,7 +2075,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 48.26 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -2131,14 +2131,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "8f7a53ff-9baf-4524-ad9e-a406edac6c81")
+			(uuid "457598ac-cbe3-4977-a326-208ac5c71074")
 		)
 		(pin "1"
-			(uuid "3b68fc94-0795-4f9b-b90e-11887c6f8169")
+			(uuid "a6e68cb1-4da5-4732-8a67-d7713a342c70")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D1")
 					(unit 1)
 				)
@@ -2177,7 +2177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 76.2 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2211,14 +2211,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "179efd5c-51bf-4f46-ab10-cc97196f6c72")
+			(uuid "5525d748-f99f-4c77-9d1a-ced4b0d83f43")
 		)
 		(pin "1"
-			(uuid "7c78bf9b-03d1-49d7-a676-22075bedfb90")
+			(uuid "9c7444f5-b8fb-4915-8fd3-45128e406539")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW15")
 					(unit 1)
 				)
@@ -2257,7 +2257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 93.98 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -2291,14 +2291,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "3447e39b-b4aa-4efb-baa7-4fe4cf1aaa95")
+			(uuid "424c1cee-652c-473a-b0e1-f2e569b9cbc5")
 		)
 		(pin "1"
-			(uuid "75e30915-76e6-414f-b56a-022e7ff5d56f")
+			(uuid "cb24016b-12be-4500-a478-df63ee334114")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW8")
 					(unit 1)
 				)
@@ -2337,7 +2337,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 93.98 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -2371,14 +2371,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "8a78d378-ad77-4ed6-8b1a-e1da3e2ba53e")
+			(uuid "81396478-32f8-4a95-a465-84efc31f1fc0")
 		)
 		(pin "1"
-			(uuid "c4c720fd-5614-46df-ae36-cfc0ed203ba7")
+			(uuid "023e035e-9c51-43a3-a11c-005e8c0b51d6")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW4")
 					(unit 1)
 				)
@@ -2417,7 +2417,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 59.69 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -2451,14 +2451,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "cccd2597-d047-42a6-b890-887f561b8376")
+			(uuid "57c17623-4f0a-478b-9b78-229f6eabf440")
 		)
 		(pin "1"
-			(uuid "65d0509a-9832-476c-bce8-1205eae953b0")
+			(uuid "9a0d2526-b8f5-4eaf-b83f-383d01e0c1dc")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW10")
 					(unit 1)
 				)
@@ -2497,7 +2497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 59.69 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -2531,14 +2531,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "b33a991e-3418-48a8-a11b-359b1d979665")
+			(uuid "da28570b-2ef7-445f-a548-3cdb323ad0a0")
 		)
 		(pin "1"
-			(uuid "6ce109f5-6be9-464f-bb6c-87767d476909")
+			(uuid "222c468b-90e9-4a8d-aef9-afbe2821a3c4")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW2")
 					(unit 1)
 				)
@@ -2579,7 +2579,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 64.77 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -2635,14 +2635,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "ff3e0fe9-0f34-464b-86f2-1ff488fdcc36")
+			(uuid "62b5c978-24fe-4761-ad3f-7f2a71863660")
 		)
 		(pin "1"
-			(uuid "7082a300-a127-4b90-b73c-7135f06bfdc0")
+			(uuid "70f2d5f8-d454-4649-a02c-f5ed072493b6")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D2")
 					(unit 1)
 				)
@@ -2681,7 +2681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 59.69 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2715,14 +2715,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "0ba6fe13-82c3-49e7-8634-302d72d86c89")
+			(uuid "31173284-8684-438c-b2c2-d506561bcb5b")
 		)
 		(pin "1"
-			(uuid "2f5b8d6e-7bc9-4d90-84f1-46b5cd1d970d")
+			(uuid "21ce2b91-65d4-4dcb-b0c8-f30e3c3608a7")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW14")
 					(unit 1)
 				)
@@ -2761,7 +2761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 43.18 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2795,14 +2795,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "a4584b7f-fe87-4ad1-bf67-20a459923371")
+			(uuid "fdffd7d3-e18a-4f51-9781-d0d2f532dc29")
 		)
 		(pin "1"
-			(uuid "0e0c316b-598c-48bd-bd43-2e83c726045d")
+			(uuid "e953b324-9d05-4186-a43f-6ea9ec3295af")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW13")
 					(unit 1)
 				)
@@ -2843,7 +2843,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 81.28 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2899,14 +2899,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "88c578f2-5f1c-4771-9e4b-703c42840e36")
+			(uuid "37a27d4c-402b-4047-ad20-a2285d5c90ca")
 		)
 		(pin "1"
-			(uuid "06efbaac-4bf2-498f-8605-fb6065f9d63c")
+			(uuid "d8ac53b7-b28c-406e-9a78-cdb2a923ba96")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D15")
 					(unit 1)
 				)
@@ -2947,7 +2947,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 48.26 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -3003,14 +3003,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "883b08fe-3c7e-43ab-85c7-bf48d4b38089")
+			(uuid "2a5347e4-a97e-41b5-a7d0-e624eef48a0b")
 		)
 		(pin "1"
-			(uuid "3b4eb0a1-8fcf-4cce-aae4-03758431d6be")
+			(uuid "be5262ed-6992-4444-9f45-9436c19288ae")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D13")
 					(unit 1)
 				)
@@ -3049,7 +3049,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 76.2 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -3083,14 +3083,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "2c85b8a2-aac0-4d5d-bf1a-6897846a03b8")
+			(uuid "6ddb13a0-8ee4-4ef0-8d20-9ebc5ebb648d")
 		)
 		(pin "1"
-			(uuid "0191eaf1-c4ca-455d-a021-b29d6b7646b8")
+			(uuid "84d4d83c-57fc-44a5-b5dc-b11d4266701f")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW3")
 					(unit 1)
 				)
@@ -3131,7 +3131,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 81.28 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -3187,14 +3187,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "f715b3ea-8fc4-4241-9d14-2da133787d09")
+			(uuid "435dd0f6-509b-45f4-8ee4-9f78f3e5ca53")
 		)
 		(pin "1"
-			(uuid "fe9376f0-6edd-4b1e-8955-e2e8bb1a259b")
+			(uuid "1a18f873-ed29-4b8f-9546-1c90355ac4a4")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D7")
 					(unit 1)
 				)
@@ -3235,7 +3235,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 99.06 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -3291,14 +3291,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "70c5dd31-4da8-4997-9740-1d08f729947b")
+			(uuid "840e66a2-ceca-4c0c-b642-0e29d97e82e0")
 		)
 		(pin "1"
-			(uuid "77b252bc-ed44-45be-a8c7-2538aa1bbfaa")
+			(uuid "715150d0-b90b-4489-81c6-7c866707e860")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D4")
 					(unit 1)
 				)
@@ -3337,7 +3337,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 59.69 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -3371,14 +3371,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "5b9d6bcb-206c-456b-87aa-75f74de6eb8e")
+			(uuid "80cb1781-9dfb-4a93-9982-889b22e3ccd0")
 		)
 		(pin "1"
-			(uuid "d9a4c02d-aab1-433c-aa7e-af92c2a21b39")
+			(uuid "61c1baca-b98a-4fe4-9c1a-bf4943e5212d")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW6")
 					(unit 1)
 				)
@@ -3417,7 +3417,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Library:SW_Cherry_MX_1.00u_PCB_Custom"
 			(at 43.18 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -3451,14 +3451,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "fecac18a-4a53-4502-a62c-c1f1125ec7d9")
+			(uuid "ab04b35a-9e1f-4833-a8ab-dbbc8c78f66c")
 		)
 		(pin "1"
-			(uuid "02ca3ccb-c2b4-45a0-9e13-fc0f5103e128")
+			(uuid "f1d51c45-bd39-44cb-9e66-19da6850c991")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "SW1")
 					(unit 1)
 				)
@@ -3499,7 +3499,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 81.28 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -3555,14 +3555,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "072a288b-a61d-42c6-a074-9dcb33b81c95")
+			(uuid "390e0035-5808-43c0-902a-e867765cebbe")
 		)
 		(pin "1"
-			(uuid "b2d45035-df33-4499-a782-336f24f04f99")
+			(uuid "9cb43783-7f84-42df-bba8-5f6d903578e2")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D11")
 					(unit 1)
 				)
@@ -3603,7 +3603,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 99.06 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -3659,14 +3659,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "e3307d8a-a4d3-4210-af4a-399a89f743b9")
+			(uuid "c1213300-44eb-497a-8780-11eb1b8ba96e")
 		)
 		(pin "1"
-			(uuid "118762c3-16b5-4646-af2a-005de67dd1e3")
+			(uuid "1431edc5-13e0-49aa-b92d-9b52587a6aa1")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D16")
 					(unit 1)
 				)
@@ -3707,7 +3707,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 99.06 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -3763,14 +3763,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "451c10f9-67e2-4d47-b737-ea85eb176bd1")
+			(uuid "6ab68053-df96-4d56-aa38-8b3ff9a3c1c3")
 		)
 		(pin "1"
-			(uuid "bf3576a5-f140-4bfb-b43d-4816e51a8414")
+			(uuid "286a1acb-7e53-475e-af8e-7e0c6ebd0d11")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D8")
 					(unit 1)
 				)
@@ -3811,7 +3811,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 48.26 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -3867,14 +3867,14 @@
 			)
 		)
 		(pin "2"
-			(uuid "f40eb5dd-6090-4248-a018-6324c3fa130b")
+			(uuid "13a3e14a-3037-4114-a9e9-969e54e862d0")
 		)
 		(pin "1"
-			(uuid "0505d6af-83ba-45a0-9858-74d88109875e")
+			(uuid "b1b3f4b3-60a4-413f-a9bf-de811c8bd532")
 		)
 		(instances
 			(project "RP2040_Macropad_4x4"
-				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/335cc0cb-ce1e-45e7-91e0-9be383716d38"
+				(path "/a5ce7b42-98e8-418b-812a-b3e4f0678f6a/9c62cffc-8d93-4b11-aeba-26c81cdcdce0"
 					(reference "D5")
 					(unit 1)
 				)

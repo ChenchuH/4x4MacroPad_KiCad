@@ -653,6 +653,14 @@
     "meta": {
       "version": 1
     },
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -665,7 +673,7 @@
         "uuid": "a5ce7b42-98e8-418b-812a-b3e4f0678f6a"
       }
     ],
-    "used_designators": "#FLG1-3,#PWR1-29,BOOT1,C1-25,D1-17,D_PWR1,ENC1,F1,FB1,J1-3,R1-8,RST1,SW1-18,U1-4,Y1",
+    "used_designators": "#FLG1-4,#PWR1-29,BOOT1,C1-25,D1-32,D_PWR1,ENC1,F1,FB1,H1-7,J1-3,L1-2,R1-9,RST1,SW1-32,U1-5,Y1",
     "variants": []
   },
   "sheets": [
@@ -674,7 +682,7 @@
       "RP2040_Macropad_4x4"
     ],
     [
-      "335cc0cb-ce1e-45e7-91e0-9be383716d38",
+      "9c62cffc-8d93-4b11-aeba-26c81cdcdce0",
       "4x4 Matrix"
     ]
   ],
