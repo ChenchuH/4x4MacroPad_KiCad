@@ -70,7 +70,16 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_edge_clearance|145090147|52400000|43165e4e-30fa-4fa8-85ff-daa03ced6ce3|46deb7d8-12c6-4f88-9850-8b5c901ccecb",
+          ""
+        ],
+        [
+          "silk_edge_clearance|154490147|52400000|43165e4e-30fa-4fa8-85ff-daa03ced6ce3|98037f91-39e9-4e20-9135-ff4e7ce07259",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
